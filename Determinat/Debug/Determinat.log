@@ -1,0 +1,3 @@
+﻿  Determinat.cpp
+D:\My projects C++\Determinat\Determinat\Determinat.cpp(54,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Determinat.vcxproj -> D:\My projects C++\Determinat\Debug\Determinat.exe
